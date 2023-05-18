@@ -1,0 +1,83 @@
+<html>
+	<head>
+		<link href="style.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+        <title>Dennis Busolo</title>
+	</head>
+
+	<body>
+		<header id="header">
+			<!-- resume header with your name and title -->
+			<h1>Dennis Busolo</h1>
+			<hr>
+			Faculty Demo
+			<hr>
+		</header>
+		<main>
+			<article id="mainLeft">
+				<section>
+					<h2>CONTACT</h2>
+					<!-- contact info including social media -->
+                    <p>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                        <a href="dennisbusolo613@gmail.com">dennisbusolo613@gmail.com</a>
+                    </p>
+                    <p>
+                        <i class="fab fa-github" aria-hidden="true"></i>
+                        <a href="github.com/busoch">Dennis Busolo</a>
+                    </p>
+                    <p>
+                        <i class="fab fa-linkedin" aria-hidden="true"></i>
+                        <a href="linkedin.com/dennis-busolo-689702276/">Dennis Busolo</a>
+                    </p>
+				</section>
+				<section>
+					<h2>SKILLS</h2>
+	                <ul>
+                        <li>Analytical Skills</li>
+                        <li>Web development Skills</li>
+                        <li>Testing and debugging</li>
+                        <li>Program frameworks!</li>
+                    </ul>
+				</section>
+				<section>
+					<h2>EDUCATION</h2>
+					<!-- your education -->
+                    <h3>Computer Science</h3>
+                    <p>
+                        Jomo Kenyatta University of Agriculture and Technology
+                    </p>
+                    <p>
+                        2021-2025
+                    </p>
+				</section>            
+			</article>
+			<article id="mainRight">
+				<section>
+					<h2>ABOUT</h2>
+					<!-- about you -->
+                    <p>I am a talented and passionate web developer who is transforming the digital landscape one website at a time. With a keen eye for design and a knack for coding,I combine my technical expertise with creative problem-solving to bring exceptional web experiences to life.</p>
+				</section>
+				<section>
+					<h2>WORK EXPERIENCE</h2>
+					<p>i am yet to be employed as I am still a student</p>
+                    <h3>Job Title</h3>
+                    <p>
+                        N/A
+                    </p>
+                    <ul>
+                            <li>N/A</li>
+                    </ul>
+
+                    <h3>Job Title 2</h3>
+                    <p>
+                        N/A
+                    </p>
+                    <ul>
+                            <li>N/A</li>
+                    </ul>
+				</section>
+			</article>
+		</main>
+	</body>
+</html>
